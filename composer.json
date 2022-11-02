@@ -1,0 +1,11 @@
+{
+    "name": "tomc3/db-to-spreadsheet-demo",
+    "autoload": {
+        "psr-4": {
+            "Tomc3\\DbToSpreadsheetDemo\\": "src/"
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.25"
+    }
+}
