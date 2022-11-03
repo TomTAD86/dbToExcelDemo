@@ -22,7 +22,16 @@
         <th>Sales This Year</th>
       </tr>
     </table>
-    <button class="btn btn-primary">Generate Excel File</button>
+    <div id="button-container">
+      <button class="btn btn-primary" id="generate-excel">
+        Generate Excel File
+      </button>
+      <form method="get" action="src/php/output.xlsx">
+        <button class="btn btn-primary" id="download-excel" disabled="true" type="submit">
+          Download Excel File
+        </button>
+      </form>
+    </div>
     <script src="src/js/jquery-3.6.1.min.js"></script>
     <script src="src/js/bootstrap.min.js"></script>
     <script src="src/js/script.js"></script>

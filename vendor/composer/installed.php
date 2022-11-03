@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'tomc3/db-to-spreadsheet-demo',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => 'dfadbbf44f35db967db1f8ab541e837af2539f07',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -110,9 +110,9 @@
             'dev_requirement' => false,
         ),
         'tomc3/db-to-spreadsheet-demo' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => 'dfadbbf44f35db967db1f8ab541e837af2539f07',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

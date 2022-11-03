@@ -40,3 +40,11 @@ td {
   border-right: 1px solid white;
   text-align: center;
 }
+
+#button-container {
+  display: flex;
+}
+
+#button-container button {
+  margin-right: 1.5rem;
+}

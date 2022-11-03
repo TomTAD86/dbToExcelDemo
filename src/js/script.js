@@ -36,3 +36,13 @@ $(async function () {
   });
   console.log(employees);
 });
+
+$("#generate-excel").click(async function() {
+  $("#generate-excel").text("Generating...");
+  console.log("Generating...");
+  await $.ajax({
+    url: "src/php/createExcelFile.php",
+    type: "GET",
+  });
+  $("#generate-excel").text("Excel File Generated");
+});
