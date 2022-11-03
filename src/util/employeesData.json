@@ -1,0 +1,84 @@
+{
+  "employees": [
+    {
+      "firstName": "Robert",
+      "lastName": "Downey Jr",
+      "position": "Sales Team Lead",
+      "department": "Sales",
+      "salary": 25000,
+      "salesThisYear": 21785
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Hemsworth",
+      "position": "Sales Rep",
+      "department": "Sales",
+      "salary": 20000,
+      "salesThisYear": 74321
+    },
+    {
+      "firstName": "Chris",
+      "lastName": "Evans",
+      "position": "Sales Rep",
+      "department": "Sales",
+      "salary": 20000,
+      "salesThisYear": 13756
+    },
+    {
+      "firstName": "Mark",
+      "lastName": "Ruffalo",
+      "position": "Sales Rep",
+      "department": "Sales",
+      "salary": 20000,
+      "salesThisYear": 19842
+    },
+    {
+      "firstName": "Scarlett",
+      "lastName": "Johannson",
+      "position": "Sales Rep",
+      "department": "Sales",
+      "salary": 20000,
+      "salesThisYear": 35231
+    },
+    {
+      "firstName": "Bruce",
+      "lastName": "Wayne",
+      "position": "Retentions Team Lead",
+      "department": "Retentions",
+      "salary": 25000,
+      "salesThisYear": 31983
+    },
+    {
+      "firstName": "Clark",
+      "lastName": "Kent",
+      "position": "Retentions Rep",
+      "department": "Retentions",
+      "salary": 20000,
+      "salesThisYear": 25987
+    },
+    {
+      "firstName": "Selena",
+      "lastName": "Kyle",
+      "position": "Retentions Rep",
+      "department": "Retentions",
+      "salary": 20000,
+      "salesThisYear": 31921
+    },
+    {
+      "firstName": "Barry",
+      "lastName": "Allen",
+      "position": "Retentions Rep",
+      "department": "Retentions",
+      "salary": 20000,
+      "salesThisYear": 45092
+    },
+    {
+      "firstName": "Oliver",
+      "lastName": "Queen",
+      "position": "Retentions Rep",
+      "department": "Retentions",
+      "salary": 20000,
+      "salesThisYear": 22543
+    }
+  ]
+}
