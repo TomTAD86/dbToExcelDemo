@@ -45,4 +45,5 @@ $("#generate-excel").click(async function() {
     type: "GET",
   });
   $("#generate-excel").text("Excel File Generated");
+  $("#download-excel").prop("disabled", false);
 });
